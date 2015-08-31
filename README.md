@@ -1,5 +1,5 @@
 # App-Offline-Html-Template
-A simple html template to be use in app_offline.htm
+A simple html template to be used in app_offline.htm
 
 Demo : http://jsfiddle.net/yrshaikh/5y9fxj1r/
 
